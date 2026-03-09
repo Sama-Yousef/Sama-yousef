@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:s-sama.yousef@zewailcity.edu.eg"><img src="https://img.shields.io/badge/Email-s.yousef@zewailcity.edu.eg-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/sama-yousef/"><img src="https://img.shields.io/badge/LinkedIn-Sama%20Yousef-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/sama-yousef-93001a201/"><img src="https://img.shields.io/badge/LinkedIn-Sama%20Yousef-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/Sama-Yousef"><img src="https://img.shields.io/github/followers/Sama-Yousef?style=flat-square&logo=github"></a>
   <a href="https://huggingface.co/SamaYousef"><img src="https://img.shields.io/badge/HuggingFace-SamaYousef-yellow?style=flat-square&logo=huggingface"></a>
   <a href="https://www.kaggle.com/samaahmedyousef"><img src="https://img.shields.io/badge/Kaggle-Sama%20Yousef-20BEFF?style=flat-square&logo=kaggle"></a>
