@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sama Yousef 👋</h1>
 
 <p align="center">
-  🧠 AI/ML Engineer | 🎓 Zewail City Graduate | 🤖 Deep Learning & Computer Vision Enthusiast
+   AI/ML Engineer |  Zewail City Graduate |  Deep Learning & Computer Vision Enthusiast
 </p>
 
 <p align="center">
@@ -15,43 +15,43 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 I’m Sama, a passionate AI/ML engineer and recent graduate from **Zewail City of Science and Technology**, with a B.Sc. in **Communication & Information Engineering**.  
 I specialize in deep learning, adversarial robustness, speech technologies, and intelligent systems — building ethical and impactful AI applications in healthcare, autonomous vehicles, and NLP.
 
 ---
 
-### 🔥 Featured Projects
+###  Featured Projects
 
-🚘 **Adversarial Attacks on Autonomous Vehicles**  
+ **Adversarial Attacks on Autonomous Vehicles**  
 *YOLOv8, CARLA, PyTorch, OpenCV*  
 Robust perception under attack: Designed and defended traffic sign recognition models from adversarial inputs.  
 [GitHub](https://github.com/Sama-Yousef/tsr-adv-defense-yolo-vgg-carla) | [Demo](https://drive.google.com/file/d/1kbuMbATJXeZNq74X4tabHxpFCtuqDmif/view)
 
-🎧 **Continuous Emotion Detection**  
+ **Continuous Emotion Detection**  
 *LSTM, Change Point Detection, PyTorch*  
 Tracked shifting emotional states in speech using time-series modeling and deep learning.  
 [GitHub](https://github.com/NadaAdelIsmailM/Leveraging-LSTM-and-Change-Point-Detection-for-Continuous-Emotion-Detection) | [IEEE Paper](https://ieeexplore.ieee.org/document/11018570)
 
-🩻 **Medical Diagnosis AI Web App**  
+ **Medical Diagnosis AI Web App**  
 *Flask, Transformers, Azure, Docker*  
 Full-stack medical AI system with real-time disease detection, report generation, and recommendations.  
 [GitHub](https://github.com/Sama-Yousef/Medical-Diagnosis-Web-Application)
 
-🔤 **Arabic Whisper Diacritization**  
+ **Arabic Whisper Diacritization**  
 *Hugging Face, Whisper, Torchaudio*  
 Fine-tuned Whisper-small to transcribe diacritized Arabic audio with improved fidelity.  
 [GitHub](https://github.com/Sama-Yousef/whisper-finetune-arabic-diacritization)
 
-🔐 **Neural Cryptanalysis of AES**  
+ **Neural Cryptanalysis of AES**  
 *RNN, CNN, MLP, TensorFlow*  
 Recovered AES keys with >97% accuracy via deep learning.  
 [GitHub](https://github.com/Omar-Said-4/Assessing-Deep-Learning-Challenges-in-Lightweight-AES-Cryptanalysis) | [Springer Paper](https://link.springer.com/chapter/10.1007/978-3-031-96228-8_5)
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 #### Languages  
 `Python` `C++` `MATLAB` `SQL` `Bash` `C#` `HTML` `CSS` `system Verilog` `R` `ARM`
@@ -70,17 +70,17 @@ Recovered AES keys with >97% accuracy via deep learning.
 
 ---
 
-### 🌍 Currently Exploring
+###  Currently Exploring
 
-- 🧪 Adversarial defenses for deep neural networks  
-- 📖 Multimodal learning with vision-language transformers  
-- 🧬 Research in speech recognition and emotion AI  
-- 🤝 Open-source contributions to healthcare and accessibility tech
+-  Adversarial defenses for deep neural networks  
+-  Multimodal learning with vision-language transformers  
+-  Research in speech recognition and emotion AI  
+-  Open-source contributions to healthcare and accessibility tech
 
 ---
 
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 
 
@@ -91,25 +91,25 @@ Recovered AES keys with >97% accuracy via deep learning.
 ---
 
 
-### 🐍 GitHub Contribution Snake
+###  GitHub Contribution Snake
 
 ![GitHub Snake](https://github.com/Sama-Yousef/snk/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-### 🏆 GitHub Trophy
+###  GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sama-Yousef&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-### 💬 Let's Connect!
+###  Let's Connect!
 
 > “AI should amplify human potential, not replace it. My mission is to build transparent, ethical, and human-centered AI solutions.”
 
-📬 **Reach out for research collaborations, internships, or just a good AI chat!**
+ **Reach out for research collaborations, internships, or just a good AI chat!**
 
 ---
 
 <p align="center">
-  ✨ Built with passion by <strong>Sama Yousef</strong> | Last updated: July 2025
+   Built with passion by <strong>Sama Yousef</strong> | Last updated: July 2025
 </p>
